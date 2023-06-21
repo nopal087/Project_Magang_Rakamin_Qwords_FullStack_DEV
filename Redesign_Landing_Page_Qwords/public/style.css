@@ -1,0 +1,13 @@
+.icon-img {
+    width: 20px; /* Atur lebar gambar sesuai kebutuhan */
+    height: 24px; /* Atur tinggi gambar sesuai kebutuhan */
+    object-fit: contain; /* Pilih salah satu nilai objek-fit yang sesuai, seperti 'contain', 'cover', atau 'none' */
+}
+
+.icon-img-2 {
+    width: 40px; /* Atur lebar gambar sesuai kebutuhan */
+    height: 24px; /* Atur tinggi gambar sesuai kebutuhan */
+    object-fit: contain; /* Pilih salah satu nilai objek-fit yang sesuai, seperti 'contain', 'cover', atau 'none' */
+}
+
+
