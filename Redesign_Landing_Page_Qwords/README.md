@@ -23,10 +23,10 @@ cek versi php pastikan sesuai, ketik perintah
 ```html
 $ php --v
 ```
-Untuk menjalankan project gunakan peirntah
+Untuk menjalankan project gunakan perintah
 ```html
 $ php artisan run serve 
-``` -->
+```
 
 
 ## Tech Stack
